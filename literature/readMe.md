@@ -1,1 +1,8 @@
 # Literature Review
+
+| Article Title                                                                                                    | Description | Dataset | Methodology | Results | Discussions |  Source Code | 
+|------------------------------------------------------------------------------------------------------------------|---------|-------------|---------|-------------|---------|---------|
+| [GradeAid: a framework for automatic short answers grading in educational contexts—design, implementation and evaluation](https://link.springer.com/article/10.1007/s10115-023-01892-9) | proposes GradeAid, a framework for ASAG. It is based on the joint analysis of lexical and semantic features of the students’ answers through state-of-the-art regressors; differently from any other previous work, (i) it copes with non-English datasets, (ii) it has undergone a robust validation and benchmarking phase, and (iii) it has been tested on every dataset publicly available and on a new dataset (now available for researchers).         |             |         |             |             |   [Github](https://github.com/edgresearch/code-automaticgrading-2022)          |    
+| [Article 2](#)                                                                                                   |         |             |         |             |             |             |    
+| [Article 3](#)                                                                                                   |         |             |         |             |             |             |    
+| [Article 4](#)                                                                                                   |         |             |         |             |             |             |    
